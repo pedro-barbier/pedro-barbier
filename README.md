@@ -1,4 +1,6 @@
-## Hi there 👋
+## Wassup? My name is Pedro
+
+curretly working on this space lol
 
 <!--
 **pedro-barbier/pedro-barbier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
